@@ -35,3 +35,6 @@ To run the LMS application locally, follow these steps:
 
 2. Open the Project in visual studio and change the connection strings in the project to your connection strings
 
+**Note**: The database schema is currently missing, so the application may not run as intended. To use this project, recreate the necessary tables based on the code logic.
+
+
