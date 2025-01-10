@@ -24,7 +24,7 @@ The Learning Management System (LMS) is a web-based application built using the 
 To run the LMS application locally, follow these steps:
 
 ### Prerequisites
-- .NET Framework (version X.X or higher)
+- .NET Framework (version 3.8 or higher)
 - SQL Server (or SQL Server Express) installed locally or remotely
 - Visual Studio 2019 or later
 
